@@ -1,0 +1,21 @@
+As top 5 maiores são:
+(1) 
+	UUID: 18884217-7802-4f51-a8df-12d2b0a2de05
+	Valor: R$ 999.99
+	Categoria: investimentos
+(2) 
+	UUID: 30be8017-fd7b-4800-ac46-b0417d166faa
+	Valor: R$ 999.96
+	Categoria: saude
+(3) 
+	UUID: 3b43c06a-b05d-4660-8859-beae3cd6f290
+	Valor: R$ 999.89
+	Categoria: casa
+(4) 
+	UUID: d60794ff-d614-47d3-9e0e-1dcb9135a052
+	Valor: R$ 999.89
+	Categoria: saude
+(5) 
+	UUID: db5311d3-e0c0-41fc-bc44-7f35db8ab558
+	Valor: R$ 999.63
+	Categoria: investimentos

@@ -1,0 +1,119 @@
+As top 5 medianas da categoria 'casa' são:
+(1) 
+	UUID: f90d55c1-65f4-41c6-a52e-bd3e09cb6d72
+	Valor: R$ 496.97
+(2) 
+	UUID: afa92f8b-9481-4f29-9e5c-12423e393862
+	Valor: R$ 497.62
+(3) 
+	UUID: b6122059-a4e4-49b1-b5ae-fa5c5a1326c1
+	Valor: R$ 497.75
+(4) 
+	UUID: 4df397c1-248d-47d6-afa7-68b7b6da9cf3
+	Valor: R$ 498.92
+(5) 
+	UUID: 819b9538-9a04-42e7-8693-b4eebf2bfd46
+	Valor: R$ 499.46
+
+As top 5 medianas da categoria 'lazer' são:
+(1) 
+	UUID: daff609b-4212-4b02-80e0-4ad88d4ff942
+	Valor: R$ 498.00
+(2) 
+	UUID: e1528712-60a9-4875-9bb5-5ae441b5a2c1
+	Valor: R$ 498.13
+(3) 
+	UUID: 32f10810-1ae9-4577-879e-0883e06f667d
+	Valor: R$ 499.47
+(4) 
+	UUID: a3c2c58f-7721-4c8d-b721-07790f9c90bc
+	Valor: R$ 499.50
+(5) 
+	UUID: e0e10cea-602d-4f8a-8379-ec469090203c
+	Valor: R$ 499.68
+
+As top 5 medianas da categoria 'viagens' são:
+(1) 
+	UUID: e806c585-4aa3-4e3c-99d7-c15024285538
+	Valor: R$ 487.16
+(2) 
+	UUID: 499fd832-5ae3-451c-8bcd-5aec415d2de8
+	Valor: R$ 489.62
+(3) 
+	UUID: 56dca858-1bf6-4274-9891-ada009d3e3f9
+	Valor: R$ 492.52
+(4) 
+	UUID: 90fb3326-bf6b-4678-9f7f-48d0151983d1
+	Valor: R$ 493.97
+(5) 
+	UUID: 933f4694-dcb2-4ac5-96af-75e20a38d541
+	Valor: R$ 495.61
+
+As top 5 medianas da categoria 'investimentos' são:
+(1) 
+	UUID: f00170d1-aac3-4a23-9acd-8964a709e41d
+	Valor: R$ 492.74
+(2) 
+	UUID: b0fb449c-afa8-48c1-b0fb-d1e01bdbfdef
+	Valor: R$ 493.78
+(3) 
+	UUID: 5208b209-9852-4570-8313-2e829fdd630a
+	Valor: R$ 494.22
+(4) 
+	UUID: 6ce99d5b-49a8-4f3c-90d2-77a388a33837
+	Valor: R$ 495.74
+(5) 
+	UUID: d4d59d17-5243-42b7-a3ea-117428abc9a0
+	Valor: R$ 495.82
+
+As top 5 medianas da categoria 'transferencias' são:
+(1) 
+	UUID: eed60d56-4eca-4436-b6fc-fc1fa9f48c09
+	Valor: R$ 516.38
+(2) 
+	UUID: d1a31856-768c-4758-be5b-7ea817d91067
+	Valor: R$ 516.66
+(3) 
+	UUID: cd314aa8-fba0-4e06-a430-dc45beae7543
+	Valor: R$ 516.82
+(4) 
+	UUID: fa259a58-a428-4d80-842e-d317dea7659b
+	Valor: R$ 518.59
+(5) 
+	UUID: d68a283b-f73b-4e4e-9159-da3f302a6fe5
+	Valor: R$ 518.75
+
+As top 5 medianas da categoria 'saude' são:
+(1) 
+	UUID: df45da5a-1ed4-48b8-b772-992845f9bfba
+	Valor: R$ 500.38
+(2) 
+	UUID: d621e1c4-5423-4219-8715-3ecdbb31cc2f
+	Valor: R$ 500.83
+(3) 
+	UUID: 63c218a8-c9d4-4905-9f45-e1bf419e66f4
+	Valor: R$ 501.41
+(4) 
+	UUID: 0db8fa0d-ea88-4d68-b24e-2a526a9c6bc0
+	Valor: R$ 501.84
+(5) 
+	UUID: eb6dcc44-1fc0-4149-9ae5-8bfd341ed83c
+	Valor: R$ 501.94
+
+As top 5 medianas da categoria 'alimentacao' são:
+(1) 
+	UUID: 2895f914-5fcb-4d3e-9998-bb8a6b27c0a2
+	Valor: R$ 475.60
+(2) 
+	UUID: 8c831a62-bf78-41ae-a33e-b68578e334e1
+	Valor: R$ 476.72
+(3) 
+	UUID: 03c69690-ec79-4c91-bdd9-17297c558c05
+	Valor: R$ 476.81
+(4) 
+	UUID: 78a32994-9d46-45f7-9899-6d3a419aa700
+	Valor: R$ 477.45
+(5) 
+	UUID: 5cd2a58f-0002-46fc-99c6-8ec1d83dea7e
+	Valor: R$ 478.78
+
