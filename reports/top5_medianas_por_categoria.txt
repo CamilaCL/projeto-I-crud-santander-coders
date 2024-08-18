@@ -102,18 +102,18 @@ As top 5 medianas da categoria 'saude' são:
 
 As top 5 medianas da categoria 'alimentacao' são:
 (1) 
-	UUID: 2895f914-5fcb-4d3e-9998-bb8a6b27c0a2
-	Valor: R$ 475.60
-(2) 
 	UUID: 8c831a62-bf78-41ae-a33e-b68578e334e1
 	Valor: R$ 476.72
-(3) 
+(2) 
 	UUID: 03c69690-ec79-4c91-bdd9-17297c558c05
 	Valor: R$ 476.81
-(4) 
+(3) 
 	UUID: 78a32994-9d46-45f7-9899-6d3a419aa700
 	Valor: R$ 477.45
-(5) 
+(4) 
 	UUID: 5cd2a58f-0002-46fc-99c6-8ec1d83dea7e
 	Valor: R$ 478.78
+(5) 
+	UUID: 6840954d-cdab-4a0e-97a5-ce053a1d9ec9
+	Valor: R$ 478.99
 

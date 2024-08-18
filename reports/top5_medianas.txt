@@ -1,21 +1,21 @@
 As top 5 medianas são:
 (1) 
-	UUID: 24bcff01-9307-4a3b-9667-718cc560fcea
-	Valor: R$ 494.74
-	Categoria: alimentacao
-(2) 
 	UUID: f50d78ab-726b-436f-8c68-b3c2927aee8b
 	Valor: R$ 494.83
 	Categoria: alimentacao
-(3) 
+(2) 
 	UUID: 507eacf0-a426-4a42-9016-d2ae2eb619dc
 	Valor: R$ 494.84
 	Categoria: saude
-(4) 
+(3) 
 	UUID: af8c9f34-7ce0-4a3c-822e-8cdde07d6e41
 	Valor: R$ 494.93
 	Categoria: alimentacao
-(5) 
+(4) 
 	UUID: 16607dc5-8a3e-4eb6-b72b-754e2fd539d9
 	Valor: R$ 494.96
 	Categoria: transferencias
+(5) 
+	UUID: 446de3bc-7346-4e30-b97e-97d4e0fd58d1
+	Valor: R$ 495.03
+	Categoria: alimentacao

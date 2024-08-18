@@ -9,11 +9,11 @@ As top 5 menores da categoria 'casa' são:
 	UUID: 62021c06-7271-4643-bcfb-d27e6e1ad74f
 	Valor: R$ 1.93
 (4) 
-	UUID: 70c1a341-beea-40da-a1fb-10cebef47f9b
-	Valor: R$ 2.00
-(5) 
 	UUID: baadb50f-0f99-4996-855c-a4503e4f2b11
 	Valor: R$ 2.36
+(5) 
+	UUID: 913d7f99-46bf-4c75-8dac-87c8bbbfeee1
+	Valor: R$ 11.46
 
 As top 5 menores da categoria 'lazer' são:
 (1) 
