@@ -1,6 +1,6 @@
 # **Projeto Transações Bancárias**
 
-## Programa Santander Coders 2024.1 | Turma Data Science 
+## Programa Santander Coders 2024.1 | Turma Data Science | Ada Tech
 ### *Módulo: Lógica de Programação II*
 
 Este projeto foi desenvolvido como parte do módulo de Lógica de Programação II, curso Data Science do programa Santander Coders 2024.1. O projeto caracteriza um sistema de gestão de transações de uma conta bancária pessoal, permitindo visualizar, criar, editar e excluir transações.
