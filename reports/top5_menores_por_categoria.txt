@@ -1,0 +1,119 @@
+As top 5 menores da categoria 'casa' são:
+(1) 
+	UUID: 631e4c2d-9a1a-4970-bcdf-78216ac6e9f6
+	Valor: R$ 1.54
+(2) 
+	UUID: c66fe3af-b660-421c-9d31-fdb217fd6df7
+	Valor: R$ 1.58
+(3) 
+	UUID: 62021c06-7271-4643-bcfb-d27e6e1ad74f
+	Valor: R$ 1.93
+(4) 
+	UUID: 70c1a341-beea-40da-a1fb-10cebef47f9b
+	Valor: R$ 2.00
+(5) 
+	UUID: baadb50f-0f99-4996-855c-a4503e4f2b11
+	Valor: R$ 2.36
+
+As top 5 menores da categoria 'lazer' são:
+(1) 
+	UUID: 65dc1c4b-de26-46b5-8f94-df659279af77
+	Valor: R$ 1.68
+(2) 
+	UUID: 77a25674-07ab-4c1a-998c-c6cbe8f056c2
+	Valor: R$ 2.64
+(3) 
+	UUID: e01a0a3b-4058-4fdc-b32e-df8cf415edb5
+	Valor: R$ 6.57
+(4) 
+	UUID: d448cf78-3b12-4958-a799-40bc80806042
+	Valor: R$ 8.07
+(5) 
+	UUID: 638025d4-f884-4335-90df-72c988d6af9f
+	Valor: R$ 9.95
+
+As top 5 menores da categoria 'viagens' são:
+(1) 
+	UUID: 63396bea-c259-4900-851c-04f70e91d498
+	Valor: R$ 2.02
+(2) 
+	UUID: 17ed5972-9830-4dd6-9192-fcd0bda23059
+	Valor: R$ 2.09
+(3) 
+	UUID: 23bcc68c-de5c-493b-8337-29fd046d131c
+	Valor: R$ 2.95
+(4) 
+	UUID: b927acfb-32cb-46b3-9cb8-973c2fb9387e
+	Valor: R$ 10.28
+(5) 
+	UUID: e15cca59-bee9-4ba5-af08-fc18e15e0aa0
+	Valor: R$ 14.38
+
+As top 5 menores da categoria 'investimentos' são:
+(1) 
+	UUID: 076dbbdd-9015-4717-978e-6da66ef68a10
+	Valor: R$ 2.14
+(2) 
+	UUID: f5258862-fe0b-467e-924a-c06a9680f7b5
+	Valor: R$ 2.22
+(3) 
+	UUID: 675e0403-83e0-4524-97fb-cc83b3ae0110
+	Valor: R$ 2.40
+(4) 
+	UUID: 245f8ba2-51dd-4c67-ac04-b2561184f781
+	Valor: R$ 2.88
+(5) 
+	UUID: 6f81785d-8527-40cb-b9c9-6c5d21200947
+	Valor: R$ 3.03
+
+As top 5 menores da categoria 'transferencias' são:
+(1) 
+	UUID: 78ead887-de9d-4543-a8cc-37a60dabe9c8
+	Valor: R$ 1.66
+(2) 
+	UUID: 6dd3ecf4-81b7-41bb-a89e-c0c633457ed4
+	Valor: R$ 3.32
+(3) 
+	UUID: 33f8592f-6368-4f6a-8c18-95b26974c693
+	Valor: R$ 6.52
+(4) 
+	UUID: d2282890-8ffa-47cf-b0ab-a126969f4d26
+	Valor: R$ 7.65
+(5) 
+	UUID: 2f46ea15-2f61-4338-9af5-48daca49ace3
+	Valor: R$ 7.87
+
+As top 5 menores da categoria 'saude' são:
+(1) 
+	UUID: 2c653050-60dd-4c8a-a6c5-f6ce48ce6af7
+	Valor: R$ 1.32
+(2) 
+	UUID: 0c3cd0ed-d134-4970-bfc1-4648c0cf939d
+	Valor: R$ 2.93
+(3) 
+	UUID: c0b07524-cd02-4707-9d77-47603e3fd193
+	Valor: R$ 3.87
+(4) 
+	UUID: 9398b7ff-b536-4f82-af13-13ac9df73be3
+	Valor: R$ 5.97
+(5) 
+	UUID: c87d9ecb-7a3c-420e-8aa6-a90f36073568
+	Valor: R$ 6.55
+
+As top 5 menores da categoria 'alimentacao' são:
+(1) 
+	UUID: 92fbdd0f-0451-4419-b6ed-e519ca85daf0
+	Valor: R$ 1.01
+(2) 
+	UUID: 84cc0195-26b3-4a4d-b54b-46862a4c009c
+	Valor: R$ 1.36
+(3) 
+	UUID: 53e5e810-b93f-40d1-8140-c098c674ab77
+	Valor: R$ 1.95
+(4) 
+	UUID: c67029c5-9941-4694-b21f-abec60b724b3
+	Valor: R$ 1.97
+(5) 
+	UUID: 98844ab5-9590-4f55-8644-09a582409efa
+	Valor: R$ 2.00
+

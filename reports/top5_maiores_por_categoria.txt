@@ -1,0 +1,119 @@
+As top 5 maiores da categoria 'casa' são:
+(1) 
+	UUID: 3b43c06a-b05d-4660-8859-beae3cd6f290
+	Valor: R$ 999.89
+(2) 
+	UUID: 1f741f00-0ada-42c8-9b44-2ae93b1ecf17
+	Valor: R$ 999.36
+(3) 
+	UUID: 7afc061a-05fe-4713-81e1-a044a41c6af3
+	Valor: R$ 998.36
+(4) 
+	UUID: 61ff0801-5342-414a-9a73-2188d2f84807
+	Valor: R$ 997.66
+(5) 
+	UUID: ad6e741c-699a-41d7-bc91-6ba584e7921a
+	Valor: R$ 997.64
+
+As top 5 maiores da categoria 'lazer' são:
+(1) 
+	UUID: 1fbbc7ec-da44-4db5-8827-385b75d77d54
+	Valor: R$ 997.63
+(2) 
+	UUID: 6b862a20-bc27-4d1b-bf6a-ffbc58868305
+	Valor: R$ 997.34
+(3) 
+	UUID: 494590fc-2f35-470e-b917-7f5b9d307df6
+	Valor: R$ 997.16
+(4) 
+	UUID: 4ad21a61-f317-4fae-8c30-67442805b88d
+	Valor: R$ 994.84
+(5) 
+	UUID: 99cf353b-d99a-4bb9-8a7e-3d2e11c2fa9a
+	Valor: R$ 994.30
+
+As top 5 maiores da categoria 'viagens' são:
+(1) 
+	UUID: e250382d-7d37-470a-95e7-c1e547ee6086
+	Valor: R$ 998.99
+(2) 
+	UUID: b0c1a1fb-6854-4796-aaeb-65a16aaa5920
+	Valor: R$ 993.68
+(3) 
+	UUID: e7ac58bd-3db1-4021-90f8-18618372ce34
+	Valor: R$ 993.29
+(4) 
+	UUID: c2d18f84-918e-49a5-ad7b-a063c2e4795a
+	Valor: R$ 991.38
+(5) 
+	UUID: d085e23e-3eac-46eb-bdde-f6ade61ae894
+	Valor: R$ 991.38
+
+As top 5 maiores da categoria 'investimentos' são:
+(1) 
+	UUID: 18884217-7802-4f51-a8df-12d2b0a2de05
+	Valor: R$ 999.99
+(2) 
+	UUID: db5311d3-e0c0-41fc-bc44-7f35db8ab558
+	Valor: R$ 999.63
+(3) 
+	UUID: 7f1cdeb4-8de8-4664-8406-30a5e25fd808
+	Valor: R$ 998.35
+(4) 
+	UUID: 4cc7f6e3-8ffe-4573-8750-cb695bfe34d7
+	Valor: R$ 997.94
+(5) 
+	UUID: 006c093b-775b-4034-8fdb-580291356a58
+	Valor: R$ 996.78
+
+As top 5 maiores da categoria 'transferencias' são:
+(1) 
+	UUID: 7438fd1e-f6ac-4f8f-aec5-a55959ab7689
+	Valor: R$ 999.35
+(2) 
+	UUID: c353b3fa-d894-4586-aa6a-f6359389ab5d
+	Valor: R$ 997.95
+(3) 
+	UUID: b1618425-fa76-4bcb-b052-62c0c8d67499
+	Valor: R$ 994.83
+(4) 
+	UUID: eb011f2b-952c-4051-ad8b-e991b337db4c
+	Valor: R$ 993.48
+(5) 
+	UUID: 55d82a35-723f-49b0-97a0-ca7dd081d03b
+	Valor: R$ 991.41
+
+As top 5 maiores da categoria 'saude' são:
+(1) 
+	UUID: 30be8017-fd7b-4800-ac46-b0417d166faa
+	Valor: R$ 999.96
+(2) 
+	UUID: d60794ff-d614-47d3-9e0e-1dcb9135a052
+	Valor: R$ 999.89
+(3) 
+	UUID: d8f1d5f6-c195-4b0a-8a86-fe8d3961718a
+	Valor: R$ 999.36
+(4) 
+	UUID: 1e46cdac-02bf-4307-aa68-377f5a4afb1b
+	Valor: R$ 999.16
+(5) 
+	UUID: c880eec6-e679-4f43-988b-e8b6611eb9fe
+	Valor: R$ 997.92
+
+As top 5 maiores da categoria 'alimentacao' são:
+(1) 
+	UUID: 34f93ec5-9369-4fa5-abe1-6220e1d3277a
+	Valor: R$ 999.17
+(2) 
+	UUID: f69db63f-4b8f-4a51-9b4f-0f2ddc5d50da
+	Valor: R$ 998.84
+(3) 
+	UUID: c05e050d-bfcf-4d66-81ed-a815bff8299f
+	Valor: R$ 998.71
+(4) 
+	UUID: dace232b-2e43-4cee-ac2b-c70f37a991c6
+	Valor: R$ 998.20
+(5) 
+	UUID: d3ccd12c-5802-4e31-b552-0129e5949a01
+	Valor: R$ 998.20
+

@@ -1,0 +1,14 @@
+A média da categoria 'casa' é R$ 497.87
+
+A média da categoria 'lazer' é R$ 505.01
+
+A média da categoria 'viagens' é R$ 495.35
+
+A média da categoria 'investimentos' é R$ 491.67
+
+A média da categoria 'transferencias' é R$ 515.19
+
+A média da categoria 'saude' é R$ 496.86
+
+A média da categoria 'alimentacao' é R$ 493.01
+

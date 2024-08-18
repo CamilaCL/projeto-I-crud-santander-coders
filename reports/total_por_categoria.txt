@@ -1,0 +1,14 @@
+O total da categoria 'casa' é R$ 746803.14
+
+O total da categoria 'lazer' é R$ 505010.61
+
+O total da categoria 'viagens' é R$ 247673.32
+
+O total da categoria 'investimentos' é R$ 983332.47
+
+O total da categoria 'transferencias' é R$ 515188.43
+
+O total da categoria 'saude' é R$ 496864.17
+
+O total da categoria 'alimentacao' é R$ 1478526.70
+
