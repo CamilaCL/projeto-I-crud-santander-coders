@@ -64,7 +64,7 @@ def excluir_transacao():
 
 ```
 
-projeto-I-crud-santander-coders/
+santander-coders-projeto-I-crud/
 │
 ├── data/                                 # Dados utilizados pelo projeto
 ├── reports/                              # Arquivos .txt exemplificando os relatórios salvos
